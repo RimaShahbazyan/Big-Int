@@ -1,4 +1,4 @@
 # Big-Int
-A program that does mathematical operations with *infinitly big* numbers.
+A program that does mathematical operations with **infinitly big** numbers.
                                                  
-Based on *linked lists.
+Based on **linked lists**.
